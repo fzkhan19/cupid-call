@@ -1,13 +1,12 @@
 // please update required information
 export const siteMetadata = {
-	title: "💗 CupidCall",
+	title: "CupidCall",
 	author: "Luce🫀",
 	headerTitle: "Luce🫀",
 	description:
 		"Call your lover with your cupid. 💗 CupidCall is a web application that allows you to call your lover using your cupid.",
 	language: "en-us",
-	technologies: [
-	],
+	technologies: [],
 	keywords: [
 		"cupid",
 		"lover",
