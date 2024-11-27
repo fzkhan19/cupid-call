@@ -21,7 +21,6 @@ import {
 	NavigationMenuItem,
 	NavigationMenuList,
 } from "@/components/ui/navigation-menu";
-import Image from "next/image";
 import {ToggleTheme as ToggleThemeComponent} from "../toggle-theme";
 
 interface RouteProps {
@@ -99,13 +98,7 @@ export const Navbar = () => {
 										className="flex items-center gap-3 font-bold text-lg "
 										href="/"
 									>
-										<Image
-											src={"/logo.png"}
-											alt="logo"
-											width={24}
-											height={24}
-										/>
-										Faiz Khan
+										💗 Cupid Call
 									</Link>
 								</SheetTitle>
 							</SheetHeader>

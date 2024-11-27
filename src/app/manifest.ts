@@ -2,10 +2,10 @@ import type { MetadataRoute } from "next";
 
 export default function manifest(): MetadataRoute.Manifest {
 	return {
-		name: "Portfolio - Faiz Khan",
-		short_name: "Portfolio",
+		name: "CupidCall",
+		short_name: "CupidCall",
 		description:
-			"Portfolio of Faiz Khan, a software engineer and freelancer with a passion for creating innovative solutions.",
+			"CupidCall is a web application that allows you to call your lover using your cupid.",
 		theme_color: "#994fdd",
 		background_color: "#ffffff",
 		display: "standalone",
